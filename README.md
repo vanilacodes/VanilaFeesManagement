@@ -1,7 +1,7 @@
 # fees-management-system
 Student fees management system VB .NET
 
-## The complete code is on google drive because it is big to upload on github - https://drive.google.com/open?id=1RWcjbVbVRrWiVOlVS5q8UTEcRosl7ywd
+## The complete code is on google drive - https://drive.google.com/open?id=1RWcjbVbVRrWiVOlVS5q8UTEcRosl7ywd
 
 
 [![fees management system vb.net click to see](https://img.youtube.com/vi/-3TYLn1THCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=-3TYLn1THCs)
